@@ -3,7 +3,7 @@ FULL STACK DEVELOPER | MERN SPECIALUST |Computer Science
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/in/harshu_saraswat_30 ]([https://www.google.com/urlq=https://www.instagram.com/accounts/login/%3Fhl%3Den&sa=U&sqi=2&ved=2ahUKEwis2ZCX4tWTAxWW1zgGHfYbExoQFnoECCsQAQ&usg=AOvVaw3UNkS03A0CT70bA9qbq0cE](https://www.instagram.com/harshu_saraswat_30?utm_source=qr&igsh=MW5zNXp2YW9nNHZuMg==](https://www.instagram.com/harshu_saraswat_30?utm_source=qr&igsh=MW5zNXp2YW9nNHZuMg==)))) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/in/harshu_saraswat_30 ](https://www.instagram.com/harshu_saraswat_30?utm_source=qr&igsh=MW5zNXp2YW9nNHZuMg==)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Harsh Saraswat](https://www.linkedin.com/in/harsh-saraswat-ab8038326/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGB1xIEEeSq6vn7pW%2BMtB3A%3D%3D)) 
 
 # 💻 Tech Stack:
